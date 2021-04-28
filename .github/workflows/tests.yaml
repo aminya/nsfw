@@ -1,8 +1,5 @@
 on:
   push:
-    branches:
-      - master
-      - release/*
   pull_request:
 
 name: Run Tests
